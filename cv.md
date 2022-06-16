@@ -8,9 +8,11 @@
 * Github tinnaf94
 *****************
 ***About Myself***
+*****************
 I am 27 years old, recently I decided to change my professional, because I very interested front-end development and I believe I will become a good specialist.
 *****************
 ***Skills***
+*****************
 * HTML
 * CSS
 * Ruby
@@ -19,6 +21,7 @@ I am 27 years old, recently I decided to change my professional, because I very 
 * JS
 *****************
 ***Code example***
+*****************
 ```
 const checkAge = function(age_1, age_2, age_3) {
     if (age_1 < age_2) {
